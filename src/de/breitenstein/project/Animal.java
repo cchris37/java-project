@@ -1,6 +1,6 @@
 package de.breitenstein.project;
 
-public class Animal { //Vererbung an Cat und Dog.
+public class Animal {
 
     private String name;
     private int age;
